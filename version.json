@@ -1,8 +1,11 @@
 {
-  "latest": "1.0.0",
+  "latest": "1.0.1",
   "builds": {
     "1.0.0": {
       "url": "https://github.com/Nachos-td56/pjcsdownloadretriver/releases/download/TESTRELEASE/631.zip"
+    },
+    "1.0.1": {
+      "url": "https://github.com/Nachos-td56/pjcsdownloadretriver/releases/download/1/pjcsALPHA.zip"
     }
   }
 }
